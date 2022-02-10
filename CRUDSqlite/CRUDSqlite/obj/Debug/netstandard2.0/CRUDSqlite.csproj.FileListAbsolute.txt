@@ -1,0 +1,15 @@
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\bin\Debug\netstandard2.0\CRUDSqlite.deps.json
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\bin\Debug\netstandard2.0\CRUDSqlite.dll
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\bin\Debug\netstandard2.0\ref\CRUDSqlite.dll
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\bin\Debug\netstandard2.0\CRUDSqlite.pdb
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\obj\Debug\netstandard2.0\CRUDSqlite.csproj.AssemblyReference.cache
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\obj\Debug\netstandard2.0\CRUDSqlite.GeneratedMSBuildEditorConfig.editorconfig
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\obj\Debug\netstandard2.0\App.xaml.g.cs
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\obj\Debug\netstandard2.0\CRUDSqlite.AssemblyInfoInputs.cache
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\obj\Debug\netstandard2.0\CRUDSqlite.AssemblyInfo.cs
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\obj\Debug\netstandard2.0\CRUDSqlite.csproj.CoreCompileInputs.cache
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\obj\Debug\netstandard2.0\XamlC.stamp
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\obj\Debug\netstandard2.0\CRUDSqlite.dll
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\obj\Debug\netstandard2.0\ref\CRUDSqlite.dll
+P:\Proyectos\CRUDSqlite\CRUDSqlite\CRUDSqlite\obj\Debug\netstandard2.0\CRUDSqlite.pdb
